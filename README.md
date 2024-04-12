@@ -17,13 +17,13 @@ NTEC-test work
     ```
 # Usage
 * ## Run project:
- Run NTEC file to start server:
+ In the project dir go to the build dir and run 'NTEC' file to start server:
   ```sh
   cd build
   ./NTEC
   ```
 * ## Run test:
- Run Testing file to start server:
+ In the project dir go to the build dir and run 'Testing' file to start server:
   ```
   cd build
   ./Testing
